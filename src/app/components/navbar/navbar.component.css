@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    max-width: 330px;
+    align-items: center;
+}
+
+.navbar__navigation {
+    display: flex;
+    width: 190px;
+    justify-content: space-between;
+    list-style-type: none;
+}
